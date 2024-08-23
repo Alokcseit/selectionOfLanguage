@@ -52,7 +52,7 @@ function Home() {
               ))}
             </div>
           ) : (
-            <div>No languages selected</div>
+            <div>No languages selected  yet.</div>
           )}
         </div>
       </div>
